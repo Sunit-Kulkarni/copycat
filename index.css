@@ -1,0 +1,23 @@
+.col {
+    width: 33%;
+    display: inline-block;
+}
+
+.nav li {
+    float: left;
+    list-style: none;
+}
+
+header {
+    width: 100%;
+}
+
+header .logo {
+    float: left;
+    width: 33%;
+}
+
+header .nav {
+    float: right;
+    width: 33%;
+}
